@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/thiagotnon/nlw-01/master/web/src/assets/ecoleta.png)
+![enter image description here](https://raw.githubusercontent.com/thiagotnon/Ecoleta-NLW-01/master/web/src/assets/ecoleta.png)
 ## Projeto
 
 Aplicação desenvolvida durante a semana **NextLevelWeek**, por RocketSeat
@@ -44,5 +44,5 @@ $ npm start
 $ npm start
 
 Informação importante:
-> Mudar a baseURL no arquivo api.ts das pastas web e mobile para o seu IP;
+> Mudar a baseURL IP;
 ```
